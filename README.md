@@ -14,6 +14,7 @@ DINet_Project/
 │   ├── tool/               # Utilities
 │   └── train/              # Training logic
 └── README.md     
+```
 
 ## Requirements
 The code is tested with **Python 3.9** and **PyTorch 2.4.0 (CUDA 12.4)**. 
