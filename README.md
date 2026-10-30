@@ -3,6 +3,7 @@ DINet is a dual-path deep learning framework for quantitative MIC prediction aga
 
 ## Directory Structure
 
+```text
 DINet_Project/
 ├── dtsd_outlier_filter.py  # Outlier filtering script
 ├── train.py                # Main execution script
